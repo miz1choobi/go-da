@@ -1,6 +1,6 @@
 reviewers:
   defaults:
-    - code-owners
+  - code-owners
   groups:
     code-owners:
       - Nashqueue
